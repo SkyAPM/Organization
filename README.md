@@ -4,9 +4,10 @@ Skywalking is an APM for Distributed Systems, also known Distributed Tracing Sys
 # Project Management Committee (PMC)
 As a member of PMC, you have following rights:
 1. In charged with responsibility and governance for all projects/repositories in OpenSkywalking organization.
-1. Create/Edit rights for all repositories.
-1. Vote right for every pull request.
+1. Edit rights for all repositories.
+1. Merge right for pull request.
 1. Vote right for promoting contributor to Committer Team and PMC.
+1. Start a vote for pull request or feature discussion.
 1. For now, only 吴晟 [@wu-sheng](https://github.com/wu-sheng) has right to remove people from PMC or Committer Team.
 
 The current Project Management Committee is as follows (in chronological order):
@@ -16,8 +17,8 @@ The current Project Management Committee is as follows (in chronological order):
 
 # Committer Team
 As a member of PMC, you have following rights:
-1. Create/Edit rights for `skywalking` and `skywalking-ui` repositories.
-1. Vote right for every pull request.
+1. Edit rights for `skywalking` and `skywalking-ui` repositories.
+1. Vote right for pull request.
 1. Vote right for promoting contributor to Committer Team.
 
 The current Committer Team is as follows (in chronological order):
