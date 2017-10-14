@@ -23,6 +23,7 @@ As a member of PMC, you have following rights:
 
 The current Committer Team is as follows (in chronological order):
 * 柏杨 [@bai-yang](https://github.com/bai-yang)  Senior Engineer, Alibaba Group.
+* 高洪涛 [@hanahmily]（http://githun.com/hanahmily） Senior Architect, dangdang.com
 
 # Contributors
 * [Contributors List](https://github.com/wu-sheng/sky-walking/graphs/contributors)
