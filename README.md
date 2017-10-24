@@ -1,8 +1,10 @@
 # Open Skywalking Organization
-Skywalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contribute this project to the OpenSkywalking Organization.
+Skywalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at Oct 2017.
+
+We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
 
 # Project Management Committee (PMC)
-As a member of PMC, you have following rights:
+As a member of PMC, you **must** contribute and maintain the features or modules, and also take part in project management and building the eco-system. Because of that, you have following rights:
 1. In charged with responsibility and governance for all projects/repositories in OpenSkywalking organization.
 1. Edit rights for all repositories.
 1. Merge right for pull request.
@@ -16,7 +18,7 @@ The current Project Management Committee is as follows (in chronological order):
 * 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
 
 # Committer Team
-As a member of PMC, you have following rights:
+As a member of PMC, you **must** contribute and maintain the features or modules. Because of that, you have following rights:
 1. Edit rights for `skywalking` and `skywalking-ui` repositories.
 1. Vote right for pull request or feature discussion.
 1. Vote right for promoting contributor to Committer Team and PMC.
@@ -26,6 +28,7 @@ The current Committer Team is as follows (in chronological order):
 * 高洪涛 [@hanahmily](http://githun.com/hanahmily) Senior Architect, dangdang.com
 
 # Contributors
+Welcome any people to take part in our project. Contributors list based on GitHub rules.
 * [Contributors List](https://github.com/wu-sheng/sky-walking/graphs/contributors)
 * Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
 
