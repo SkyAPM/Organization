@@ -29,8 +29,20 @@ The current Committer Team is as follows (in chronological order):
 
 # Contributors
 Welcome any people to take part in our project. Contributors list based on GitHub rules.
-* [Contributors List](https://github.com/wu-sheng/sky-walking/graphs/contributors)
-* Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
+
+The contributors list (in alphabeta order of GitHub account):
+
+* [@clevertension](https://github.com/clevertension)
+* [@IluckySi](https://github.com/IluckySi)
+* [@lytscu](https://github.com/lytscu)
+* [@mircoteam](https://github.com/mircoteam)
+* [@neeuq](https://github.com/neeuq)
+* 徐妍 [@TastySummer](https://github.com/TastySummer)
+* [@wendal](https://github.com/wendal)
+* [@zhangkewei](https://github.com/zhangkewei)
+* [@xcaspar](https://github.com/xcaspar)
+
+Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
 
 # Voting
 
