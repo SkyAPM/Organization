@@ -40,7 +40,7 @@ The contributors list (in alphabeta order of GitHub account):
 * [@neeuq](https://github.com/neeuq)
 * 徐妍 [@TastySummer](https://github.com/TastySummer)
 * [@wendal](https://github.com/wendal)
-* [@zhangkewei](https://github.com/zhangkewei)
+* 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
 * [@xcaspar](https://github.com/xcaspar)
 
 Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
