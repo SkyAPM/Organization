@@ -35,7 +35,7 @@ The contributors list (in alphabeta order of GitHub account):
 * 林嘉琦 [@chidaodezhongsheng](https://github.com/chidaodezhongsheng) R&D Engineer，dangdang.com
 * [@clevertension](https://github.com/clevertension)
 * [@IluckySi](https://github.com/IluckySi)
-* [@lytscu](https://github.com/lytscu)
+* 李运涛[@lytscu](https://github.com/lytscu) R&D Engineer，Huawei
 * [@mircoteam](https://github.com/mircoteam)
 * [@neeuq](https://github.com/neeuq)
 * 徐妍 [@TastySummer](https://github.com/TastySummer)
