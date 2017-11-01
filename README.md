@@ -32,6 +32,7 @@ Welcome any people to take part in our project. Contributors list based on GitHu
 
 The contributors list (in alphabeta order of GitHub account):
 
+* [@chidaodezhongsheng](https://github.com/chidaodezhongsheng)
 * [@clevertension](https://github.com/clevertension)
 * [@IluckySi](https://github.com/IluckySi)
 * [@lytscu](https://github.com/lytscu)
