@@ -13,7 +13,7 @@ As a member of PMC, you **must** contribute and maintain the features or modules
 1. For now, only 吴晟 [@wu-sheng](https://github.com/wu-sheng) has right to remove people from PMC or Committer Team.
 
 The current Project Management Committee is as follows (in chronological order):
-* 吴晟 [@wu-sheng](https://github.com/wu-sheng) Huawei
+* 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM and tracing expert, Huawei
 * 张鑫 [@ascrutae](https://github.com/ascrutae)
 * 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
 
@@ -38,15 +38,20 @@ Welcome any people to take part in our project. Contributors list based on GitHu
 
 The contributors list (in alphabeta order of GitHub account):
 
+1. 柏杨 [@bai-yang](https://github.com/bai-yang)  Senior Engineer, Alibaba Group.
 1. 林嘉琦 [@chidaodezhongsheng](https://github.com/chidaodezhongsheng) R&D Engineer，dangdang.com
 1. [@clevertension](https://github.com/clevertension)
+1. 高洪涛 [@hanahmily](http://githun.com/hanahmily) Senior Architect, dangdang.com
 1. 司冬雪[@IluckySi](https://github.com/IluckySi) R&D Engineer, cloudwise.com
 1. 李运涛[@lytscu](https://github.com/lytscu) R&D Engineer，Huawei
 1. [@mircoteam](https://github.com/mircoteam)
 1. [@neeuq](https://github.com/neeuq)
+1. 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
 1. 徐妍 [@TastySummer](https://github.com/TastySummer)
 1. [@wendal](https://github.com/wendal)
+1. 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM expert, Huawei
 1. 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
 1. [@xcaspar](https://github.com/xcaspar)
+1. 张鑫 [@ascrutae](https://github.com/ascrutae)
 
 Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
