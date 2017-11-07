@@ -48,7 +48,7 @@ The contributors list (in alphabeta order of GitHub account):
 1. [@mircoteam](https://github.com/mircoteam)
 1. [@neeuq](https://github.com/neeuq)
 1. 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
-1. 徐妍 [@TastySummer](https://github.com/TastySummer)
+1. 徐妍 [@TastySummer](https://github.com/TastySummer) Senior Web Engineer, hecom.cn
 1. [@wendal](https://github.com/wendal)
 1. 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM expert, Huawei
 1. 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
