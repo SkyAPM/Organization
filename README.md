@@ -45,7 +45,7 @@ The contributors list (in alphabeta order of GitHub account):
 1. 高洪涛 [@hanahmily](http://githun.com/hanahmily) Senior Architect, dangdang.com
 1. 司冬雪[@IluckySi](https://github.com/IluckySi) R&D Engineer, cloudwise.com
 1. 李运涛[@lytscu](https://github.com/lytscu) R&D Engineer，Huawei
-1. [@mircoteam](https://github.com/mircoteam)
+1. 谭真[@mircoteam](https://github.com/mircoteam) R&D Engineer，cig.cn
 1. [@neeuq](https://github.com/neeuq)
 1. 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
 1. 徐妍 [@TastySummer](https://github.com/TastySummer) Senior Web Engineer, hecom.cn
