@@ -14,7 +14,7 @@ As a member of PMC, you **must** contribute and maintain the features or modules
 
 The current Project Management Committee is as follows (in chronological order):
 * 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM and tracing expert, Huawei
-* 张鑫 [@ascrutae](https://github.com/ascrutae)
+* 张鑫 [@ascrutae](https://github.com/ascrutae) Java Probe Team Leader, OneAPM
 * 彭勇升 [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
 
 # Committer Team
