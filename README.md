@@ -1,5 +1,5 @@
 # Open Skywalking Organization
-Skywalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at Oct 2017.
+Skywalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
 
 We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
 
