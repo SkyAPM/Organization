@@ -51,6 +51,7 @@ The contributors list (in alphabeta order of GitHub account):
 1. 徐妍 [@TastySummer](https://github.com/TastySummer) Senior Web Engineer, hecom.cn
 1. [@wendal](https://github.com/wendal)
 1. 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM expert, Huawei
+1. [@wynn5a](https://github.com/wynn5a)
 1. [@xcaspar](https://github.com/xcaspar)
 1. 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
 1. [@zuohl](https://github.com/zuohl)
