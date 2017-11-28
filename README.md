@@ -51,8 +51,8 @@ The contributors list (in alphabeta order of GitHub account):
 1. 徐妍 [@TastySummer](https://github.com/TastySummer) Senior Web Engineer, hecom.cn
 1. [@wendal](https://github.com/wendal)
 1. 吴晟 [@wu-sheng](https://github.com/wu-sheng) APM expert, Huawei
-1. 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
 1. [@xcaspar](https://github.com/xcaspar)
+1. 张科伟 [@zhangkewei](https://github.com/zhangkewei) Architect, www.suixingpay.com
 1. [@zuohl](https://github.com/zuohl)
 
 Special thanks to the contributors: 徐妍[@TastySummer](https://github.com/TastySummer) and 戴文, you offer huge helps for this project.
