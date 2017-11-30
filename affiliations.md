@@ -4,5 +4,5 @@
 * OneAPM: Xin Zhang(zhangxin@oneapm.com)
 * dangdang.com: Hongtao Gao, Kai Wang(wangkia01@dangdang.com)
 * Alibaba Cainiao: Yang Bai(jixian.by@cainiao.com)
-* Cloudwise: Dongxue Si
+* Cloudwise: Dongxue Si(ilucky.si@cloudwise.com)
 * suixingpay.com: Kewei Zhang(zhang_kw@suixingpay.com)
