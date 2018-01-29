@@ -1,13 +1,16 @@
 # Open Skywalking Organization
-**SkyWalking project and its two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
+Open SkyWalking Organization is working on the ecosystem around the Apache SkyWalking.
 
-We are running the project in Apache way. All PMC members, committers and major contributors have been invited as Apache SkyWalking committers. PPMC has been set to manage the project with IPMC(before graduate). 
+## Status of formal SkyWalking project repositories
+**SkyWalking project and its formal two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
+
+We are running the project in Apache way. All PMC members, committers and major contributors in 2017 have been invited as Apache SkyWalking committers. PPMC has been set to manage the project with IPMC(before graduate). 
+
+Back to 2015, SkyWalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
 
 Now, **SkyWalking is in Apache Incubator**, click [here](https://incubator.apache.org/projects/skywalking.html) for more details in ASF.
-___
 
-Skywalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
-
+## Organization members
 We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
 
 # Project Management Committee (PMC)
