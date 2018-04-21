@@ -35,14 +35,12 @@ In various situations the OpenSkywalking shall hold a vote. These votes can happ
 
 吴晟 [@wu-sheng](https://github.com/wu-sheng) has a special veto power: override the voting result, default: not use.
 
-# Status of Apache SkyWalking project repositories
-**SkyWalking project and its formal two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
+# History
+吴晟, Sheng Wu [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
 
-We are running the project in Apache way. All PMC members, committers and major contributors in 2017 have been invited as Apache SkyWalking committers. PPMC has been set to manage the project with IPMC(before graduate). 
-
-Back to 2015, SkyWalking is an APM for Distributed Systems, also known Distributed Tracing System. 吴晟 [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
+**SkyWalking's formal two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
 
 Now, **SkyWalking is in Apache Incubator**, click [here](https://incubator.apache.org/projects/skywalking.html) for more details in ASF.
 
 ___
-Special thanks to the contributors: 徐妍 Yan Xu [@TastySummer](https://github.com/TastySummer) and 戴文 Wen Dai, you offer huge helps for this project.
+Special thank to the contributors: 徐妍 Yan Xu [@TastySummer](https://github.com/TastySummer) and 戴文 Wen Dai, you offer huge helps for this project.
