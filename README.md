@@ -14,10 +14,20 @@ As a member of PMC, you **must** contribute and maintain the features or modules
 1. For now, only 吴晟 [@wu-sheng](https://github.com/wu-sheng) has right to remove people from PMC or Committer Team.
 
 The current Project Management Committee is as follows (in chronological order):
-* 吴晟, Sheng Wu, [@wu-sheng](https://github.com/wu-sheng) APM and tracing expert, Huawei
-* 张鑫, Xin Zhang, [@ascrutae](https://github.com/ascrutae) Java Probe Team Leader, OneAPM
-* 彭勇升, Yongsheng Peng, [@peng-yongsheng](https://github.com/peng-yongsheng) R&D director，Tydic
-* 高洪涛, Hongtao Gao [@hanahmily](http://githun.com/hanahmily) Senior Architect, Huawei
+* 吴晟, Sheng Wu, [@wu-sheng](https://github.com/wu-sheng) 
+* 张鑫, Xin Zhang, [@ascrutae](https://github.com/ascrutae) 
+* 彭勇升, Yongsheng Peng, [@peng-yongsheng](https://github.com/peng-yongsheng) 
+* 高洪涛, Hongtao Gao [@hanahmily](http://githun.com/hanahmily) 
+
+# Members
+
+* Haoyang Liu, [@liuhaoyang](https://github.com/liuhaoyang)
+* Mick Semb Wever, [@michaelsembwever](https://github.com/michaelsembwever)
+* Sheng Wang, [@titsquid](https://github.com/titsquid)
+* Yang Bai, [@bai-yang](https://github.com/bai-yang)
+* Yuntao Li, [@lytscu](https://github.com/lytscu)
+
+Member list is in alphabeta order.
 
 # Voting
 
