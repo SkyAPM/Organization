@@ -18,10 +18,10 @@ The current Project Management Committee is as follows (in chronological order):
 * 张鑫, Xin Zhang, [@ascrutae](https://github.com/ascrutae) 
 * 彭勇升, Yongsheng Peng, [@peng-yongsheng](https://github.com/peng-yongsheng) 
 * 高洪涛, Hongtao Gao [@hanahmily](http://githun.com/hanahmily) 
+* Haoyang Liu, [@liuhaoyang](https://github.com/liuhaoyang)
 
 # Members
 
-* Haoyang Liu, [@liuhaoyang](https://github.com/liuhaoyang)
 * Mick Semb Wever, [@michaelsembwever](https://github.com/michaelsembwever)
 * Sheng Wang, [@titsquid](https://github.com/titsquid)
 * Yang Bai, [@bai-yang](https://github.com/bai-yang)
