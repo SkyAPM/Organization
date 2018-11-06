@@ -26,6 +26,8 @@ The current Project Management Committee is as follows (in chronological order):
 * Sheng Wang, [@titsquid](https://github.com/titsquid)
 * Yang Bai, [@bai-yang](https://github.com/bai-yang)
 * Yuntao Li, [@lytscu](https://github.com/lytscu)
+* 李璨, Can Li [@candyleer](https://github.com/candyleer)
+* 王文斌, Wenbin Wang [@YunaiV](https://github.com/YunaiV)
 
 Member list is in alphabeta order.
 
@@ -36,7 +38,7 @@ In various situations the OpenSkywalking shall hold a vote. These votes can happ
 吴晟 [@wu-sheng](https://github.com/wu-sheng) has a special veto power: override the voting result, default: not use.
 
 # History
-吴晟, Sheng Wu [@wu-sheng](https://github.com/wu-sheng) created this project at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
+吴晟, Sheng Wu [@wu-sheng](https://github.com/wu-sheng) created SkyWalking main repositories(including UI) at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
 
 **SkyWalking's formal two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
 
