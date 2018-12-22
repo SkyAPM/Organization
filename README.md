@@ -19,6 +19,7 @@ The current Project Management Committee is as follows (in chronological order):
 * 彭勇升, Yongsheng Peng, [@peng-yongsheng](https://github.com/peng-yongsheng) 
 * 高洪涛, Hongtao Gao [@hanahmily](http://githun.com/hanahmily) 
 * Haoyang Liu, [@liuhaoyang](https://github.com/liuhaoyang)
+* 王垚, Yao Wang, [@TinyAllen](https://github.com/TinyAllen)
 
 # Members
 
