@@ -1,5 +1,5 @@
-# Open Skywalking Organization
-Open SkyWalking Organization is working on the ecosystem around the Apache SkyWalking.
+# SkyAPM Organization
+SkyAPM Organization(old name OpenSkywalking) is working on the ecosystem around the Apache SkyWalking APM solution.
 
 ## Organization members
 We have following groups to manage and contribute the project, each one has its own rights and responsibilities.
@@ -34,12 +34,12 @@ Member list is in alphabeta order.
 
 # Voting
 
-In various situations the OpenSkywalking shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. Voters can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast. An abstain vote equals not voting at all.
+In various situations the SkyAPM shall hold a vote. These votes can happen on the phone, email, or via a voting service, when appropriate. Voters can either respond "agree, yes, +1", "disagree, no, -1", or "abstain". A vote passes with two-thirds vote of votes cast. An abstain vote equals not voting at all.
 
 吴晟 [@wu-sheng](https://github.com/wu-sheng) has a special veto power: override the voting result, default: not use.
 
 # History
-吴晟, Sheng Wu [@wu-sheng](https://github.com/wu-sheng) created SkyWalking main repositories(including UI) at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017.
+吴晟, Sheng Wu [@wu-sheng](https://github.com/wu-sheng) created SkyWalking main repositories(including UI) at Oct. 2015. And contributed this project to the OpenSkywalking Organization at 2017. At 2019, the org rename to **SkyAPM** to avoid branding issue, because SkyWalking now is the project, logo and brand of Apache Software Foundation. 
 
 **SkyWalking's formal two major repositories have been contributed to and accepted by [Apache Software Foundation](https://github.com/apache).**
 
